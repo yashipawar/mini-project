@@ -3,8 +3,6 @@
 2. How did you run the code: 
 Here are the steps to run this Django project:
 a) Clone the Repository:
-If you're sharing this project with others, they can clone it using:
-
 ````git clone <your-repo-url>`
 `cd django-machine-test````
 
